@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<config>
+
+    <frontend>
+        <routers>
+            <!--<catalog>
+                <use>standard</use>
+                <args>
+                    <module>Day_Two</module>
+                    <frontName>custom</frontName>
+                </args>
+            </catalog>-->
+        </routers>
+    </frontend>
+
+    <global>
+        <blocks>
+            <day_two>
+                <class>Day_Two_Block</class>
+            </day_two>
+        </blocks>
+        <helpers>
+            <day_two>
+                <class>Day_Two_Helper</class>
+            </day_two>
+        </helpers>
+        <models>
+            <day_two>
+                <class>Day_Two_Model</class>
+            </day_two>
+        </models>
+    </global>
+
+</config>

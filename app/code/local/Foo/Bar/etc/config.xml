@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<config>
+
+    <frontend><!--admin-->
+        <routers>
+            <foo_bar>
+                <use>standard</use><!--admin-->
+                <args>
+                    <module>Foo_Bar</module>
+                    <frontName>foo</frontName>
+                </args>
+            </foo_bar>
+
+            <!--<catalog>
+                <args>
+                    <modules>
+                        <foo_bar before="Mage_Catalog">Foo_Bar_Catalog</foo_bar>
+                    </modules>
+                </args>
+            </catalog>-->
+        </routers>
+    </frontend>
+
+    <global>
+        <models>
+            <foo_bar>
+                <class>Foo_Bar_Model</class>
+            </foo_bar>
+        </models>
+    </global>
+
+    <global>
+        <events>
+            <catalog_product_load_after>
+                <observers>
+                    <foo_bar>
+                        <type>model</type>
+                        <class>foo_bar/observer</class>
+                        <method>catalogProductLoadAfter</method>
+                    </foo_bar>
+                </observers>
+            </catalog_product_load_after>
+        </events>
+    </global>
+
+</config>

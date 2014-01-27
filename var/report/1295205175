@@ -1,0 +1,8 @@
+a:4:{i:0;s:44:"Module "Day_Two" requires module "Mage_Log".";i:1;s:709:"#0 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Config.php(849): Mage::throwException('Module "Day_Two...')
+#1 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Config.php(812): Mage_Core_Model_Config->_sortModuleDepends(Array)
+#2 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Config.php(315): Mage_Core_Model_Config->_loadDeclaredModules()
+#3 Z:\home\magentod\www\app\code\core\Mage\Core\Model\App.php(414): Mage_Core_Model_Config->loadModules()
+#4 Z:\home\magentod\www\app\code\core\Mage\Core\Model\App.php(343): Mage_Core_Model_App->_initModules()
+#5 Z:\home\magentod\www\app\Mage.php(683): Mage_Core_Model_App->run(Array)
+#6 Z:\home\magentod\www\index.php(87): Mage::run('', 'store')
+#7 {main}";s:3:"url";s:19:"/custom/index/model";s:11:"script_name";s:10:"/index.php";}

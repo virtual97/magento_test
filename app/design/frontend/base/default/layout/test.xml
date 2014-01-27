@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<layout version="0.1.0">
+    <test_test_index_index>
+        <reference name="content">
+            <block type="test_test/outer" name="outer.view" template="test/view/outer.phtml">
+                <block type="test_test/inner" name="inner1.view" template="test/view/inner1.phtml">
+                    <block type="test_test/inner" name="inner2.view" template="test/view/inner2.phtml"/>
+                </block>
+            </block>
+        </reference>
+    </test_test_index_index>
+    <test_test_index_handlers>
+        <update handle="test_test_index_index" />
+    </test_test_index_handlers>
+</layout>

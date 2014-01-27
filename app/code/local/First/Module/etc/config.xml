@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <First_Module>
+            <version>1.6.0.0.1</version>
+        </First_Module>
+    </modules>
+    <default>
+        <some>
+            <random>
+                <xpath>Here is a sample value2.</xpath>
+            </random>
+        </some>
+    </default>
+
+    <stores>
+        <french>
+            <some>
+                <random>
+                    <xpath>Here is a french value.</xpath>
+                </random>
+            </some>
+        </french>
+    </stores>
+    <!--             Rewrite                       -->
+
+    <global>
+        <blocks>
+            <catalog>
+                <rewrite>
+                    <product_view>First_Module_Block_Product_View</product_view>
+                </rewrite>
+            </catalog>
+        </blocks>
+
+        <helpers>
+            <customer>
+                <rewrite>
+                    <address>First_Module_Helper_Address</address>
+                </rewrite>
+            </customer>
+        </helpers>
+
+        <models>
+            <catalog>
+                <rewrite>
+                    <product>First_Module_Model_Product</product>
+                </rewrite>
+            </catalog>
+            <catalog_resource>
+                <rewrite>
+                    <product>First_Module_Model_Product_Resource_Model</product>
+                </rewrite>
+            </catalog_resource>
+       </models>
+    </global>
+
+</config>

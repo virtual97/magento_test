@@ -1,0 +1,8 @@
+a:5:{i:0;s:336:"Error in file: "Z:\home\magentod\www\app\code\local\Training\Animal\sql\training_animal_setup\mysql4-data-upgrade-0.2.1.-0.2.3.php" - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2";i:1;s:833:"#0 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Resource\Setup.php(645): Mage::exception('Mage_Core', 'Error in file: ...')
+#1 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Resource\Setup.php(407): Mage_Core_Model_Resource_Setup->_modifyResourceDb('data-upgrade', '0.1.1', '0.2.5')
+#2 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Resource\Setup.php(286): Mage_Core_Model_Resource_Setup->_upgradeData('0.1.1', '0.2.5')
+#3 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Resource\Setup.php(269): Mage_Core_Model_Resource_Setup->applyDataUpdates()
+#4 Z:\home\magentod\www\app\code\core\Mage\Core\Model\App.php(351): Mage_Core_Model_Resource_Setup::applyAllDataUpdates()
+#5 Z:\home\magentod\www\app\Mage.php(683): Mage_Core_Model_App->run(Array)
+#6 Z:\home\magentod\www\index.php(87): Mage::run('', 'store')
+#7 {main}";s:3:"url";s:33:"/index.php/furniture/bedroom.html";s:11:"script_name";s:10:"/index.php";s:4:"skin";s:7:"default";}

@@ -1,0 +1,12 @@
+a:5:{i:0;s:398:"Error in file: "Z:\home\magentod\www\app\code\local\Test\Test\sql\test_test_setup\mysql4-upgrade-0.1.0-0.2.0.php" - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''blog_posts' (
+'blogpost_id' int(11) NOT NULL auto_increment,
+  'title' text,
+  ' at line 1";i:1;s:930:"#0 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Resource\Setup.php(645): Mage::exception('Mage_Core', 'Error in file: ...')
+#1 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Resource\Setup.php(437): Mage_Core_Model_Resource_Setup->_modifyResourceDb('upgrade', '0.1.0', '0.2.0')
+#2 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Resource\Setup.php(320): Mage_Core_Model_Resource_Setup->_upgradeResourceDb('0.1.0', '0.2.0')
+#3 Z:\home\magentod\www\app\code\core\Mage\Core\Model\Resource\Setup.php(235): Mage_Core_Model_Resource_Setup->applyUpdates()
+#4 Z:\home\magentod\www\app\code\core\Mage\Core\Model\App.php(417): Mage_Core_Model_Resource_Setup::applyAllUpdates()
+#5 Z:\home\magentod\www\app\code\core\Mage\Core\Model\App.php(343): Mage_Core_Model_App->_initModules()
+#6 Z:\home\magentod\www\app\Mage.php(683): Mage_Core_Model_App->run(Array)
+#7 Z:\home\magentod\www\index.php(87): Mage::run('', 'store')
+#8 {main}";s:3:"url";s:31:"/test_test/index/testModel/id/1";s:11:"script_name";s:10:"/index.php";s:4:"skin";s:7:"default";}

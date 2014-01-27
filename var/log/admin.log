@@ -1,0 +1,323 @@
+2013-11-13T11:31:36+00:00 INFO (6): magento/admin/catalog_product/
+2013-11-13T12:20:38+00:00 INFO (6): magento/admin/extension_custom/index/key/2b90536382f45b7ae9fb97ae1c85e05e/
+2013-11-13T12:20:39+00:00 INFO (6): magento/admin/extension_custom/index/key/2b90536382f45b7ae9fb97ae1c85e05e/
+2013-11-13T12:20:52+00:00 INFO (6): magento/admin/extension_custom/loadtab/key/2b90536382f45b7ae9fb97ae1c85e05e/
+2013-11-13T12:21:01+00:00 INFO (6): magento/admin/extension_local/
+2013-11-13T12:26:11+00:00 INFO (6): magento/admin/cache/
+2013-11-13T12:55:38+00:00 INFO (6): magento/admin/animal/
+2013-11-13T12:56:30+00:00 INFO (6): magento/admin/animal/
+2013-11-13T12:59:14+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T13:01:13+00:00 INFO (6): magento/admin/permissions_role/editrole/
+2013-11-13T13:01:27+00:00 INFO (6): magento/admin/permissions_role/saverole/
+2013-11-13T13:01:29+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T13:01:39+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/6/
+2013-11-13T13:01:45+00:00 INFO (6): magento/admin/permissions_role/delete/rid/6/
+2013-11-13T13:01:46+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T13:01:51+00:00 INFO (6): magento/admin/permissions_role/editrole/
+2013-11-13T13:01:57+00:00 INFO (6): magento/admin/permissions_role/saverole/
+2013-11-13T13:01:59+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T13:02:09+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/1/
+2013-11-13T13:02:33+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T13:02:35+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/7/
+2013-11-13T13:04:04+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T13:04:09+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/1/
+2013-11-13T13:04:27+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T13:04:31+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/7/
+2013-11-13T13:06:15+00:00 INFO (6): magento/admin/permissions_role/saverole/
+2013-11-13T13:06:17+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T13:06:22+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/1/
+2013-11-13T14:44:06+00:00 INFO (6): magento/admin/system_config/
+2013-11-13T14:44:06+00:00 INFO (6): magento/admin/system_config/
+2013-11-13T14:44:15+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-13T14:44:16+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-13T14:44:17+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-13T14:44:18+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-13T14:44:19+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-13T14:44:20+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-13T14:44:21+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-13T14:44:23+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-13T14:48:09+00:00 INFO (6): magento/admin/permissions_role/index/key/a59b11bba30e9afb45bdc741462ca894/
+2013-11-13T14:48:11+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/7/
+2013-11-13T14:48:36+00:00 INFO (6): magento/admin/permissions_role/saverole/
+2013-11-13T14:48:37+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T14:48:43+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/7/
+2013-11-13T14:50:27+00:00 INFO (6): magento/admin/permissions_role/saverole/
+2013-11-13T14:50:29+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T14:50:32+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/7/
+2013-11-13T14:50:59+00:00 INFO (6): magento/admin/dashboard/index/key/78b5b9720e42bd93c8afc2fb923c946d/
+2013-11-13T14:51:09+00:00 INFO (6): magento/admin/permissions_user/
+2013-11-13T14:51:21+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T14:51:24+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/7/
+2013-11-13T14:51:45+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/7/
+2013-11-13T14:52:28+00:00 INFO (6): magento/admin
+2013-11-13T14:52:29+00:00 INFO (6): magento/admin/dashboard/
+2013-11-13T14:52:45+00:00 INFO (6): magento/admin/permissions_user/
+2013-11-13T14:52:52+00:00 INFO (6): magento/admin/permissions_user/new/
+2013-11-13T14:52:53+00:00 INFO (6): magento/admin/permissions_user/new/
+2013-11-13T14:53:30+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T14:54:43+00:00 INFO (6): magento/admin/permissions_user/save/
+2013-11-13T14:54:44+00:00 INFO (6): magento/admin/permissions_user/
+2013-11-13T14:54:47+00:00 INFO (6): magento/admin/index/logout/
+2013-11-13T14:54:48+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T14:54:48+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T14:54:55+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T14:54:55+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T14:55:06+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T14:55:06+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T14:55:22+00:00 INFO (6): magento/admin/
+2013-11-13T14:55:23+00:00 INFO (6): magento/admin/dashboard/
+2013-11-13T14:55:28+00:00 INFO (6): magento/admin/permissions_role/
+2013-11-13T14:55:32+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/7/
+2013-11-13T14:55:51+00:00 INFO (6): magento/admin/permissions_user/
+2013-11-13T14:55:58+00:00 INFO (6): magento/admin/permissions_user/edit/user_id/3/
+2013-11-13T14:56:09+00:00 INFO (6): magento/admin/permissions_user/save/
+2013-11-13T14:56:10+00:00 INFO (6): magento/admin/permissions_user/
+2013-11-13T14:56:13+00:00 INFO (6): magento/admin/permissions_user/edit/user_id/3/
+2013-11-13T14:56:25+00:00 INFO (6): magento/admin/index/logout/
+2013-11-13T14:56:26+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T14:56:26+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T14:56:46+00:00 INFO (6): test/admin/
+2013-11-13T14:56:47+00:00 INFO (6): test/admin/system_account/
+2013-11-13T14:57:06+00:00 INFO (6): test/admin/catalog_product/
+2013-11-13T15:40:03+00:00 INFO (6): test/admin/catalog_product/
+2013-11-13T15:40:10+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:40:10+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:40:34+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:40:34+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:40:55+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:40:55+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:40:58+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:40:58+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:42:06+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:42:06+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:42:08+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:42:08+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:44:00+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:44:00+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:44:03+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:44:03+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:05+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:05+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:06+00:00 INFO (6): test/admin/permissions_role/editrole/rid/7/
+2013-11-13T15:45:15+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:15+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:16+00:00 INFO (6): test/admin/permissions_role/editrole/rid/7/
+2013-11-13T15:45:19+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:19+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:21+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:21+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:23+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:23+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:59+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:45:59+00:00 INFO (6): test/admin/system_config/
+2013-11-13T15:46:27+00:00 INFO (6): test/admin/index/logout/
+2013-11-13T15:46:27+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T15:46:27+00:00 INFO (6): Not logged in!/admin/
+2013-11-13T15:46:36+00:00 INFO (6): magento/admin/
+2013-11-13T15:46:37+00:00 INFO (6): magento/admin/dashboard/
+2013-11-13T15:46:43+00:00 INFO (6): magento/admin/system_config/
+2013-11-13T15:46:43+00:00 INFO (6): magento/admin/system_config/
+2013-11-13T15:46:48+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-13T15:49:30+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-13T16:34:55+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-13T16:49:47+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-13T16:49:53+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-13T16:54:51+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-13T16:54:53+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-13T16:54:56+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-13T16:55:03+00:00 INFO (6): magento/admin/permissions_role/editrole/rid/7/
+2013-11-13T16:55:11+00:00 INFO (6): magento/admin/cache/
+2013-11-14T09:24:51+00:00 INFO (6): Not logged in!/admin/cache/
+2013-11-14T09:24:51+00:00 INFO (6): Not logged in!/admin/cache/
+2013-11-14T09:25:15+00:00 INFO (6): magento/admin/cache/
+2013-11-14T13:16:26+00:00 INFO (6): magento/admin/cache/
+2013-11-14T13:16:34+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-14T13:16:36+00:00 INFO (6): magento/admin/animal/
+2013-11-14T13:28:16+00:00 INFO (6): magento/admin/catalog_product/
+2013-11-14T13:28:31+00:00 INFO (6): magento/admin/catalog_product/grid/product_filter/c2t1PWFjNjc0JnByaWNlJTVCY3VycmVuY3klNUQ9VVNE/
+2013-11-14T13:28:48+00:00 INFO (6): magento/admin/catalog_product/
+2013-11-14T13:28:52+00:00 INFO (6): magento/admin/catalog_product/
+2013-11-14T13:28:59+00:00 INFO (6): magento/admin/catalog_product/
+2013-11-14T13:29:04+00:00 INFO (6): magento/admin/catalog_product/
+2013-11-14T13:29:15+00:00 INFO (6): magento/admin/catalog_product/
+2013-11-14T15:18:32+00:00 INFO (6): magento/admin/system_config/
+2013-11-14T15:18:32+00:00 INFO (6): magento/admin/system_config/
+2013-11-14T15:19:03+00:00 INFO (6): magento/admin/system_config/
+2013-11-14T15:19:03+00:00 INFO (6): magento/admin/system_config/
+2013-11-14T15:20:44+00:00 INFO (6): magento/admin/system_config/edit/section/advanced/
+2013-11-14T17:02:44+00:00 INFO (6): magento/admin/system_config/
+2013-11-14T17:02:44+00:00 INFO (6): magento/admin/system_config/
+2013-11-14T17:02:54+00:00 INFO (6): magento/admin/system_config/edit/section/dev/
+2013-11-14T17:02:58+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:03:00+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:03:00+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:03:02+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:03:04+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:03:13+00:00 INFO (6): magento/admin/system_config/save/section/dev/
+2013-11-14T17:03:17+00:00 INFO (6): magento/admin/system_config/edit/section/dev/
+2013-11-14T17:03:48+00:00 INFO (6): magento/admin/system_config/save/section/dev/
+2013-11-14T17:03:50+00:00 INFO (6): magento/admin/system_config/edit/section/dev/
+2013-11-14T17:03:53+00:00 INFO (6): magento/admin/system_config/edit/section/general/
+2013-11-14T17:03:57+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:03:58+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:03:58+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:03:59+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:04:00+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:04:00+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:04:02+00:00 INFO (6): magento/admin/system_config/edit/section/dev/
+2013-11-14T17:04:06+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:04:08+00:00 INFO (6): magento/admin/system_config/save/section/dev/
+2013-11-14T17:04:11+00:00 INFO (6): magento/admin/system_config/edit/section/dev/
+2013-11-14T17:04:23+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:04:25+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-14T17:04:28+00:00 INFO (6): magento/admin/system_config/save/section/dev/
+2013-11-14T17:04:30+00:00 INFO (6): magento/admin/system_config/edit/section/dev/
+2013-11-18T12:06:54+00:00 INFO (6): Not logged in!/admin/system_config/edit/section/dev/
+2013-11-18T12:06:55+00:00 INFO (6): Not logged in!/admin/system_config/edit/section/dev/
+2013-11-20T16:56:33+00:00 INFO (6): Not logged in!/admin
+2013-11-20T16:56:34+00:00 INFO (6): Not logged in!/admin
+2013-11-20T16:57:03+00:00 INFO (6): magento/admin
+2013-11-20T16:57:05+00:00 INFO (6): magento/admin/dashboard/
+2013-11-20T16:57:31+00:00 INFO (6): magento/admin/system_config/
+2013-11-20T16:57:31+00:00 INFO (6): magento/admin/system_config/
+2013-11-25T15:33:19+00:00 INFO (6): Not logged in!/admin
+2013-11-25T15:33:19+00:00 INFO (6): Not logged in!/admin
+2013-11-25T15:33:32+00:00 INFO (6): Not logged in!/admin
+2013-11-25T15:33:32+00:00 INFO (6): Not logged in!/admin
+2013-11-25T15:34:25+00:00 INFO (6): magento/admin
+2013-11-25T15:34:27+00:00 INFO (6): magento/admin/dashboard/
+2013-11-25T16:24:35+00:00 INFO (6): magento/admin/dashboard/
+2013-11-26T13:37:08+00:00 INFO (6): Not logged in!/admin
+2013-11-26T13:37:08+00:00 INFO (6): Not logged in!/admin
+2013-11-26T13:37:25+00:00 INFO (6): magento/admin
+2013-11-26T13:37:26+00:00 INFO (6): magento/admin/dashboard/
+2013-11-26T13:37:59+00:00 INFO (6): magento/admin/system_config/
+2013-11-26T13:37:59+00:00 INFO (6): magento/admin/system_config/
+2013-11-26T13:39:10+00:00 INFO (6): magento/admin/system_config/state/
+2013-11-26T13:39:17+00:00 INFO (6): magento/admin/system_config/edit/section/training/
+2013-11-26T13:39:27+00:00 INFO (6): magento/admin/system_config/
+2013-11-26T13:39:27+00:00 INFO (6): magento/admin/system_config/
+2013-11-26T15:42:15+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:42:15+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:42:20+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:42:20+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:42:48+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:42:48+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:43:02+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:43:02+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:43:19+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:43:19+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:43:32+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:43:32+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:44:15+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:44:15+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:44:23+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:44:23+00:00 INFO (6): Not logged in!/admin
+2013-11-26T15:44:44+00:00 INFO (6): magento/admin
+2013-11-26T15:44:45+00:00 INFO (6): magento/admin/dashboard/
+2013-11-26T15:45:23+00:00 INFO (6): magento/admin/system_config/
+2013-11-26T15:45:23+00:00 INFO (6): magento/admin/system_config/
+2013-11-26T15:45:33+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:45:43+00:00 INFO (6): magento/admin/system_store/editWebsite/website_id/1/
+2013-11-26T15:45:43+00:00 INFO (6): magento/admin/system_store/editWebsite/website_id/1/
+2013-11-26T15:45:51+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:45:57+00:00 INFO (6): magento/admin/system_store/editStore/store_id/1/
+2013-11-26T15:46:03+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:46:08+00:00 INFO (6): magento/admin/system_store/editWebsite/website_id/1/
+2013-11-26T15:46:08+00:00 INFO (6): magento/admin/system_store/editWebsite/website_id/1/
+2013-11-26T15:46:20+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:46:24+00:00 INFO (6): magento/admin/system_store/editWebsite/website_id/1/
+2013-11-26T15:46:24+00:00 INFO (6): magento/admin/system_store/editWebsite/website_id/1/
+2013-11-26T15:46:31+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:46:35+00:00 INFO (6): magento/admin/system_store/editWebsite/website_id/1/
+2013-11-26T15:46:35+00:00 INFO (6): magento/admin/system_store/editWebsite/website_id/1/
+2013-11-26T15:46:40+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:46:54+00:00 INFO (6): magento/admin/system_store/editStore/store_id/1/
+2013-11-26T15:48:15+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:48:22+00:00 INFO (6): magento/admin/system_store/editStore/store_id/1/
+2013-11-26T15:48:25+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:48:27+00:00 INFO (6): magento/admin/system_store/editStore/store_id/3/
+2013-11-26T15:48:32+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:48:35+00:00 INFO (6): magento/admin/system_store/editStore/store_id/2/
+2013-11-26T15:48:38+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:48:57+00:00 INFO (6): magento/admin/system_store/editStore/store_id/1/
+2013-11-26T15:49:01+00:00 INFO (6): magento/admin/system_store/
+2013-11-26T15:49:04+00:00 INFO (6): magento/admin/system_store/editStore/store_id/3/
+2013-11-27T13:55:58+00:00 INFO (6): Not logged in!/admin/system_store/
+2013-11-27T13:55:58+00:00 INFO (6): Not logged in!/admin/system_store/
+2013-11-27T13:56:18+00:00 INFO (6): magento/admin/system_store/
+2013-11-27T13:56:42+00:00 INFO (6): magento/admin/system_store/editStore/store_id/1/
+2013-11-27T13:57:01+00:00 INFO (6): magento/admin/system_store/
+2013-11-27T13:57:05+00:00 INFO (6): magento/admin/system_store/editStore/store_id/2/
+2013-12-11T09:12:10+00:00 INFO (6): Not logged in!/admin
+2013-12-11T09:12:11+00:00 INFO (6): Not logged in!/admin
+2013-12-11T09:13:24+00:00 INFO (6): magento/admin
+2013-12-11T09:13:25+00:00 INFO (6): magento/admin/dashboard/
+2013-12-11T13:10:09+00:00 INFO (6): magento/admin/dashboard/
+2013-12-13T11:03:11+00:00 INFO (6): Not logged in!/admin
+2013-12-13T11:03:12+00:00 INFO (6): Not logged in!/admin
+2013-12-13T11:03:26+00:00 INFO (6): magento/admin
+2013-12-13T11:03:27+00:00 INFO (6): magento/admin/dashboard/
+2013-12-13T11:04:12+00:00 INFO (6): magento/admin/cms_page/
+2013-12-13T11:05:37+00:00 INFO (6): magento/admin/cms_page/edit/page_id/3/
+2013-12-14T18:26:32+00:00 INFO (6): Not logged in!/admin/cms_page/edit/page_id/3/
+2013-12-14T18:26:32+00:00 INFO (6): Not logged in!/admin/cms_page/edit/page_id/3/
+2013-12-15T12:52:01+00:00 INFO (6): Not logged in!/admin/
+2013-12-15T12:52:01+00:00 INFO (6): Not logged in!/admin/
+2013-12-15T12:52:16+00:00 INFO (6): magento/admin/
+2013-12-15T12:52:17+00:00 INFO (6): magento/admin/dashboard/
+2013-12-23T09:53:52+00:00 INFO (6): Not logged in!/admin
+2013-12-23T09:53:53+00:00 INFO (6): Not logged in!/admin
+2013-12-23T09:54:07+00:00 INFO (6): Not logged in!/admin
+2013-12-23T09:54:07+00:00 INFO (6): Not logged in!/admin
+2013-12-23T09:54:22+00:00 INFO (6): Not logged in!/admin
+2013-12-23T09:54:22+00:00 INFO (6): Not logged in!/admin
+2013-12-23T09:54:42+00:00 INFO (6): Not logged in!/admin
+2013-12-23T09:54:42+00:00 INFO (6): Not logged in!/admin
+2013-12-23T09:54:49+00:00 INFO (6): Not logged in!/admin/
+2013-12-23T09:54:49+00:00 INFO (6): Not logged in!/admin/
+2013-12-23T09:55:05+00:00 INFO (6): magento/admin/
+2013-12-23T09:55:07+00:00 INFO (6): magento/admin/dashboard/
+2013-12-23T09:55:30+00:00 INFO (6): magento/admin/system_config/
+2013-12-23T09:55:30+00:00 INFO (6): magento/admin/system_config/
+2013-12-23T09:55:44+00:00 INFO (6): magento/admin/system_config/edit/section/web/
+2013-12-23T09:55:50+00:00 INFO (6): magento/admin/system_config/state/
+2013-12-23T09:55:52+00:00 INFO (6): magento/admin/system_config/state/
+2013-12-23T09:55:56+00:00 INFO (6): magento/admin/system_config/save/section/web/
+2013-12-23T09:56:05+00:00 INFO (6): magento/admin/cache/
+2013-12-23T09:56:08+00:00 INFO (6): magento/admin/system_config/edit/section/web/
+2013-12-23T09:56:13+00:00 INFO (6): magento/admin/cache/massRefresh/
+2013-12-23T09:56:18+00:00 INFO (6): magento/admin/cache/
+2013-12-23T09:56:22+00:00 INFO (6): magento/admin
+2013-12-23T09:56:23+00:00 INFO (6): magento/admin/dashboard/
+2013-12-23T09:56:34+00:00 INFO (6): magento/admin/system_config/
+2013-12-23T09:56:34+00:00 INFO (6): magento/admin/system_config/
+2013-12-23T09:56:40+00:00 INFO (6): magento/admin/system_config/edit/section/design/
+2013-12-23T09:56:47+00:00 INFO (6): magento/admin/system_config/state/
+2013-12-23T10:00:22+00:00 INFO (6): magento/admin/system_config/edit/section/customer/
+2013-12-23T18:57:43+00:00 INFO (6): Not logged in!/admin
+2013-12-23T18:57:43+00:00 INFO (6): Not logged in!/admin
+2013-12-23T18:57:48+00:00 INFO (6): Not logged in!/admin
+2013-12-23T18:57:48+00:00 INFO (6): Not logged in!/admin
+2013-12-23T18:57:59+00:00 INFO (6): magento/admin
+2013-12-23T18:58:00+00:00 INFO (6): magento/admin/dashboard/
+2013-12-23T18:58:19+00:00 INFO (6): magento/admin/system_config/
+2013-12-23T18:58:19+00:00 INFO (6): magento/admin/system_config/
+2013-12-23T18:58:29+00:00 INFO (6): magento/admin/system_config/edit/section/design/
+2013-12-23T18:58:40+00:00 INFO (6): magento/admin/system_config/state/
+2013-12-23T19:06:25+00:00 INFO (6): magento/admin/catalog_category/
+2013-12-23T19:06:25+00:00 INFO (6): magento/admin/catalog_category/
+2013-12-23T19:06:30+00:00 INFO (6): magento/admin/catalog_category/edit/
+2013-12-23T19:48:28+00:00 INFO (6): Not logged in!/admin/system_config/
+2013-12-23T19:48:28+00:00 INFO (6): Not logged in!/admin/system_config/
+2013-12-23T19:48:35+00:00 INFO (6): magento/admin/system_config/
+2013-12-23T19:48:35+00:00 INFO (6): magento/admin/system_config/
+2013-12-23T19:48:40+00:00 INFO (6): magento/admin/system_config/edit/section/design/
+2013-12-23T19:48:44+00:00 INFO (6): magento/admin/system_config/state/
+2014-01-26T17:49:04+00:00 INFO (6): Not logged in!/admin
+2014-01-26T17:49:04+00:00 INFO (6): Not logged in!/admin
+2014-01-26T18:08:56+00:00 INFO (6): magento/admin
+2014-01-26T18:08:57+00:00 INFO (6): magento/admin/dashboard/
+2014-01-26T18:09:10+00:00 INFO (6): magento/admin/cache/
+2014-01-26T18:11:49+00:00 INFO (6): magento/admin/cache/massDisable/
+2014-01-26T18:11:55+00:00 INFO (6): magento/admin/cache/
